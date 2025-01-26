@@ -1,5 +1,8 @@
 # opg-use-my-lpa
 
+> [!IMPORTANT]
+> Ignore all this. The instructions are in [https://github.com/ramchale/supreme-octo-broccoli/tree/main/service-api/app]
+
 OPG Use My LPA: Managed by opg-org-infra &amp; Terraform
 
 ![path to live status](https://github.com/ministryofjustice/opg-use-an-lpa/actions/workflows/path-to-live.yml/badge.svg)
